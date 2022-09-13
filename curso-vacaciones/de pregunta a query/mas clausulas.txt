@@ -1,0 +1,11 @@
+WHERE utiliza las propiedades:
+–> LIKE, nos ayuda a filtrar los registros cuando solo conocemos una parte de la información.
+–> BETWEEN, nos ayuda a filtrar registros que estén entre un rango.
+‘
+También debemos de tener en cuenta que si la condición es numérica se escribe sin comillas simples de lo contrario la condición se debe escribir dentro de comillas simples, Ej: ‘Texto’.
+’
+ORDER BY utiliza los siguientes criterios:
+–> ASC. Ordena de forma ascendente.
+–> DESC. Ordena de forma descendente
+–> LIMIT. Limita la cantidad de resultados para mostrar en el query, Ej: Mostrar los 5 primeros registros.
+'
