@@ -1,0 +1,48 @@
+
+ORACLE PAREKER
+# significa que son llaves primarias
+el nombre de la tabla es siempre singular
+* indica que es obligatorio
+° indica que es opcional
+
+leer diagramas 
+un cargo puede ser asignado a muchos empleados
+siempre debe empezar con cada o un
+
+supertipos y subtipos
+
+el padre va a ser una caja grande y dentro tendrá los subtipos
+o se puede representar con un triangulo que se lee como "es un"
+
+ejemplo pago efectivo es un pago
+cheque es un pago
+
+en el supertipos deben tener los atributos comunes
+debe haber más de un subtipo para considerar que se un subtipo
+subtipo hereda todos los atributios
+
+en chen los supertipos se representan con un triangulo
+
+cuando están unidas significa que son exclutyentes animal(padre)(es vertebrado) o (es invertebrado)
+
+modelo de datos ejercicios resueltos peter chen
+
+en chen el arco indica q son excluyentes
+
+D_D_5_1 rombo no transferible
+
+peter chen relaciones ternarias
+
+muchos en la nueva tabla y debe
+
+fecha fecha hora
+
+si es 1:1 pq no las unimos en una sola pregunta seria
+
+ejemplo:
+país tiene por capital 1 ciudad
+y una ciudad es capital de 1 país
+
+pero si se usan empleado imagen
+
+solo se debe eliminar la mas corta si la información la misma información se puede obtener por ambos lados
