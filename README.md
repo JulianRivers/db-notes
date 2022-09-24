@@ -18,6 +18,7 @@
     - [CARDINALIDAD](#cardinalidad)
       - [1 a 1](#1-a-1)
       - [1 a muchos](#1-a-muchos)
+  - [RECURSOS QUE ME SIRVIERON PARA ORACLE](#recursos-que-me-sirvieron-para-oracle)
 
 ## Propiedades de las relaciones
 
@@ -110,3 +111,12 @@ Según Connolly las relaciones son tablas con filas ahora diremos que las relaci
 #### 1 a muchos
 
 Un dueño tiene N automóviles, pero 1 automóvil solo tiene 1 dueño.
+
+## RECURSOS QUE ME SIRVIERON PARA ORACLE
+
+- [buena documentación de oracle](https://www.oracletutorial.com/)
+- [otra pagina de buena documentación oracle](https://ora.u440.com/)
+- [Restricciones: eliminación (alter table - drop constraint)](https://www.tutorialesprogramacionya.com/oracleya/temarios/descripcion.php?cod=200&punto=1&inicio=)
+- [2 - Valores por defecto (default)](https://www.tutorialesprogramacionya.com/oracleya/simulador/simulador.php?cod=176&punto=2&inicio=)
+- [select](https://jorgesanchez.net/manuales/sql/select-basico-sql2016.html)
+- [alter](https://www.techonthenet.com/oracle/tables/alter_table.php)
