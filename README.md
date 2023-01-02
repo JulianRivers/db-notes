@@ -97,9 +97,9 @@ todos son rectangulos y las relaciones no obligatorias(PUEDE) son representadas 
 
 Según Connolly las relaciones son tablas con filas ahora diremos que las relaciones son asociaciones con otras tablas
 
-`datazo 1: cuando una "entidad" tiene una sola instancia, no es realmente una entidad y hay que reconsiderarlo`
+`recordar: cuando una "entidad" tiene una sola instancia, no es realmente una entidad y hay que reconsiderarlo`
 
-`datazo 2: cuando hay una redundancia se debe eliminar la ruta más corta`
+`recordar: cuando hay una redundancia se debe eliminar la ruta más corta`
 ![eliminar mas corta](img/eliminar-mas-corta.png)
 
 ### CARDINALIDAD
